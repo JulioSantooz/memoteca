@@ -4,48 +4,56 @@
       "id": 1,
       "conteudo": "Teste",
       "autoria": "Julio Santos",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Olá, mundo!",
       "autoria": "qwe",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 2
     },
     {
       "conteudo": "dsfdf",
       "autoria": "ssss",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 3
     },
     {
       "conteudo": "Teste qwe",
       "autoria": "Julio Santos",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Pensamento de TESTE*****",
       "autoria": "Julio Santos",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "wwwww",
       "autoria": "Julio Santos",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "jbjhbjhbjhbjhbjhbjbjbjhbjhbjhb",
       "autoria": "Julio Santos",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "123",
       "autoria": "Julio Santos",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 8
     }
   ]
